@@ -1329,11 +1329,11 @@ html[xmlns] .flexslider .slides {
 
 .navbar-andross .navbar-brand {
   color: #943527;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 33px;
   font-size: 20px;
   text-transform: uppercase;
-  max-width: 65%; }
+  max-width: 85%; }
 
 .navbar-nav > li {
   margin-right: 10px;
@@ -1492,7 +1492,7 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
