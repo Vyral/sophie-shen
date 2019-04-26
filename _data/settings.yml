@@ -39,7 +39,7 @@ client:
   url: 'https://www.sophierealestate.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.sophierealestate.com/selling/'
+  first_CTA_URL: 'https://www.sophierealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.sophierealestate.com/search/advanced_search/'
 sidebar_CTA:
